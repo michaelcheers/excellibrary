@@ -1,0 +1,5 @@
+#summary wishlist for excellibrary
+
+Wishlist
+ * Provide easier way to convert cell value to .NET type
+ * ImplementingOpenXmlSupport
